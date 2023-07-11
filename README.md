@@ -1,4 +1,4 @@
-# Gemstone Price Prediction - Utkarsh Mohamed Suaib
+# Gemstone Price Prediction -  Mohamed Suaib
 
 ### Introduction About the Data :
 
